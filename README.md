@@ -2,6 +2,8 @@
 Final Project
 This project compares supervised learning models across three datasets using scikit-learn.
 
+**Authors:** Julian Hidalgo,Jose Avila, Mauricio Martinez, Julio Franco
+
 # Datasets
 - Heart Disease
 - Spotify Yearly Track Metadata (2014–2026)
