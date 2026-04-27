@@ -1,5 +1,6 @@
 # CSCI-164-Project-Applied-Machine-Learning-with-scikit-learn
 Final Project
+
 This project compares supervised learning models across three datasets using scikit-learn.
 
 **Authors:** Julian Hidalgo, Jose Avila, Mauricio Martinez, Julio Franco
